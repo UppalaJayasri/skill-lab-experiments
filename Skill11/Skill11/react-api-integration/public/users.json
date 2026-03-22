@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@gmail.com",
+    "phone": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Priya Reddy",
+    "email": "priya.reddy@gmail.com",
+    "phone": "9123456780"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "email": "rahul.verma@gmail.com",
+    "phone": "9988776655"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Patel",
+    "email": "sneha.patel@gmail.com",
+    "phone": "9001122334"
+  },
+  {
+    "id": 5,
+    "name": "Arjun Nair",
+    "email": "arjun.nair@gmail.com",
+    "phone": "9090909090"
+  },
+  {
+    "id": 6,
+    "name": "Kavya Iyer",
+    "email": "kavya.iyer@gmail.com",
+    "phone": "9887766554"
+  }
+]
